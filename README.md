@@ -6,3 +6,7 @@ Learn TensorFlow from book "Getting Started with TensorFlow" by Giancarlo Zaccon
 Day-1: Sep 11, 2017
 Planned: Complete chapter-1
 Actual: Completed chapter-1
+
+Day-2: Sep 14, 2017
+Planned: Complete chapter-2
+Actual: Partially completed chapter-2
