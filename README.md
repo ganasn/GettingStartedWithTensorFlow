@@ -10,3 +10,7 @@ Actual: Completed chapter-1
 Day-2: Sep 14, 2017
 Planned: Complete chapter-2
 Actual: Partially completed chapter-2
+
+Day-3: Sep 15, 2017
+Planned: Complete chapter-2
+Actual: Completed chapter-2 (ignored complex numbers, fractals, etc. becuase usage is unclear and need to move to applications to better understand basics)
